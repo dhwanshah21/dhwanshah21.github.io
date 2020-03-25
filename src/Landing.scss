@@ -1,0 +1,21 @@
+.landing-content {
+    margin: 5% 0;
+    .stack-top {
+    width: 45%;
+    margin: auto;
+    border: 1px solid white;
+     .card-img {
+         opacity: 0.3;
+     }
+    }
+    .landing-card-text {
+        font-weight: 800;
+    }
+    .landing-page-button{
+        justify-content: center;
+        margin: 1%;
+        .btn {
+            margin: 2% !important;
+        }
+    }
+}
